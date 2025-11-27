@@ -1,0 +1,5 @@
+{
+  "name": "SubStream - Subscription Manager",
+  "description": "A visual timeline tool to manage recurring subscriptions and expenses.",
+  "requestFramePermissions": []
+}
